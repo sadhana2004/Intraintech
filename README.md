@@ -1,4 +1,4 @@
-# Intraintech_Project_DATASCIENCE
+# Amazon Prime Movies and Shows Analysis 
 
 # Overview
 The Amazon Prime Movies and Shows Analysis project involves analyzing and visualizing data from Amazon Prime to uncover trends, popular genres, and user preferences. This project uses web scraping techniques to fetch detailed information about movies and shows, and applies data analysis to extract insights.
